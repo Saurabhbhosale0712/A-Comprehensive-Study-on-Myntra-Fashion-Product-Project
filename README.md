@@ -8,13 +8,16 @@
 5)	To develop a multi-class sentiment classification model that classifies product ratings as positive, negative, or neutral.
 
 
-#	Data Collection and Preprocessing: We collected and cleaned a vast dataset of Myntra fashion products, encompassing clothing. The data included product details, customer reviews, purchase history, and more.
+#  	Data Collection and Preprocessing:
+ We collected and cleaned a vast dataset of Myntra fashion products, encompassing clothing. The data included product details, customer reviews, purchase history, and more.
 
-#	Natural Language Processing: we can develop an NLP model to extract the keywords from product description which can helps us to see the important word based on Tf Idf score. the main of NLP tool is to deal with text data and find out the meaningful insights.
+#  	Natural Language Processing:
+ we can develop an NLP model to extract the keywords from product description which can helps us to see the important word based on Tf Idf score. the main of NLP tool is to deal with text data and find out the meaningful insights.
 
-#	Recommendation System: 
+#  	Recommendation System: 
 Building a recommendation system based on collaborative filtering and content-based filtering, the dataset can be used to develop product recommendation systems that recommend products to customers based on their past purchases and reviews.
-#	Sentiment Analysis: We performed sentiment analysis on customer ratings to understand customer satisfaction, identify areas for improvement, and maintain product quality.
+
+#  	Sentiment Analysis: We performed sentiment analysis on customer ratings to understand customer satisfaction, identify areas for improvement, and maintain product quality.
  Overall, the Myntra fashion products data science project is a valuable contribution to the field of fashion data science. The project has the potential to improve Myntra's business and to provide a better shopping experience for its customers.
 
 # Keywords: 
