@@ -17,8 +17,10 @@
 #  	Recommendation System: 
 Building a recommendation system based on collaborative filtering and content-based filtering, the dataset can be used to develop product recommendation systems that recommend products to customers based on their past purchases and reviews.
 
-#  	Sentiment Analysis: We performed sentiment analysis on customer ratings to understand customer satisfaction, identify areas for improvement, and maintain product quality.
- Overall, the Myntra fashion products data science project is a valuable contribution to the field of fashion data science. The project has the potential to improve Myntra's business and to provide a better shopping experience for its customers.
+#  	Sentiment Analysis: 
+We performed sentiment analysis on customer ratings to understand customer satisfaction, identify areas for improvement, and maintain product quality.
+ 
+Overall, the Myntra fashion products data science project is a valuable contribution to the field of fashion data science. The project has the potential to improve Myntra's business and to provide a better shopping experience for its customers.
 
 # Keywords: 
 Data Scientist, Data Analyst, Data Engineer, python, SQL, Exploratory Data Analysis, Recommendation System, Natural Language processing, sentiment analysis,
